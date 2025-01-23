@@ -8,6 +8,7 @@ public class Main {
         System.out.println("두번쨰 Commit 내용");
 
         System.out.println("master 변경");
+        System.out.println("hotfix 변경");
 
     }
 }
