@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println("master 변경");
         System.out.println("hotfix 변경");
+        System.out.println("저장소 변경");
 
     }
 }
