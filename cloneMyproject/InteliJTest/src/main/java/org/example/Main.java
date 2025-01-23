@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello, World!");
 
         System.out.println("첫번째 Commit 내용");
-        System.out.println("두번째 Commit 내용");
+        System.out.println("Project Classic");
+
     }
 }
