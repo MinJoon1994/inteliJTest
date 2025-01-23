@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello, World!");
 
         System.out.println("첫번째 Commit 내용");
-        System.out.println("멀쩡하면 안되잖니");
+        System.out.println("두번쨰 Commit 내용");
 
     }
 }
