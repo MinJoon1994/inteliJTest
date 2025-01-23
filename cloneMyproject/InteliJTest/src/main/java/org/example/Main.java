@@ -7,5 +7,7 @@ public class Main {
         System.out.println("첫번째 Commit 내용");
         System.out.println("두번쨰 Commit 내용");
 
+        System.out.println("master 변경");
+
     }
 }
